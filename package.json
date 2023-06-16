@@ -1,0 +1,11 @@
+{
+  "name": "1inch-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.7.3",
+    "@1inch/limit-order-protocol": "0.3.0-prerelease",
+    "@1inch/solidity-utils": "2.1.1"
+  }
+}
